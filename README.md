@@ -1,1 +1,1 @@
-#Simple Calculator using creat-react-app https://lina-simple-calculator.herokuapp.com/
+#Simple Calculator using create-react-app https://lina-simple-calculator.herokuapp.com/
